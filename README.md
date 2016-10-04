@@ -1,2 +1,5 @@
 # RanPassGen
-Random Password Generator
+
+I'm just trying to figure GitHub out.
+
+I'll get there...be patient.
